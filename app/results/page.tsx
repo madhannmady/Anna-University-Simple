@@ -40,7 +40,7 @@ export default function Results() {
               words={title}
               className="max-w-2xl text-3xl md:text-4xl"
             />
-            <p className="max-w-xl text-justify text-xl tracking-wide text-muted-foreground">
+            <p className="max-w-xl text-justify text-base md:text-xl tracking-wide text-muted-foreground">
               It is always been a tedious process to find what is our exam
               results could be ? Sometimes ,the link to check the results could
               be a nerve wrecking process. Because , the links to access the
