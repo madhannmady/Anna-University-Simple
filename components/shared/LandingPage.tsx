@@ -21,7 +21,7 @@ const title = [
   },
 ];
 
-const subtitle = ` One stop solution to satisfy all your personal educational needs . This is a feature site , where you can calculate Cumulative Grade Point Average (CGPA) , Check your results , Give review about your college and most importantly you can get the Latest Announcements from Anna University . `;
+const subtitle = ` One stop solution to satisfy all your personal educational needs . This is a feature site , where you can calculate Cumulative Grade Point Average (CGPA) , Check your results and most importantly you can get the Latest Announcements from Anna University . `;
 
 export default function LandingPage() {
   return (
