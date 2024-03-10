@@ -28,12 +28,18 @@ export default function LandingPage() {
     <section>
       <div className="max-w-5xl mx-auto flex items-center justify-between min-h-[60vh]">
         <div className="space-y-10">
-          <TypewriterEffect className="text-center mt-10" words={title} />
-          <TextGenerateEffect className="text-justify" words={subtitle} />
+          <TypewriterEffect
+            className="text-center mt-10 text-3xl md:text-5xl ml-10 mr-10"
+            words={title}
+          />
+          <TextGenerateEffect
+            className="text-justify opacity-75 pl-6 pr-6"
+            words={subtitle}
+          />
         </div>
       </div>
       <div className=" text-center">
-        <Button className="p-7 bg-sky-500 hover:bg-sky-300  shadow-xl">
+        <Button className="p-7 bg-sky-500 hover:bg-sky-700 font-bold  shadow-xl">
           <Link
             href={"https://cfr.annauniv.edu/research/academics/latest-news.php"}
           >

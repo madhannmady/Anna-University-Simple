@@ -80,7 +80,7 @@ const SemForm: React.FC<SemFormProps> = ({ selectedSemester }) => {
           </div>
           <Button
             type="submit"
-            className="rounded-xl w-40 m-20 bg-sky-400 hover:bg-sky-600"
+            className=" w-40 m-20 rounded-lg bg-sky-400 hover:bg-sky-600"
           >
             Submit
           </Button>
