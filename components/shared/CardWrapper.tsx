@@ -32,7 +32,7 @@ const CardWrapper = ({ numOfSem, children }: CardWrapperProps) => {
   const form = useForm<z.infer<typeof formSchema>>({
     resolver: zodResolver(formSchema),
     defaultValues: {
-      sem: "",
+      sem: {},
     },
   });
   return (
