@@ -1,3 +1,9 @@
+## A Simple Anna University Application - Solve daily problems with no efforts.
+
+![Main Page](https://github.com/madhannmady/Anna-University-Simple/assets/123820592/0aaa233f-508e-4a7c-b39f-476566356bd1)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
